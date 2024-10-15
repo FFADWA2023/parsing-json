@@ -1,5 +1,7 @@
 C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/mainwindow.h \
   C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/moc_predefs.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/QJsonArray \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/QJsonObject \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/q20iterator.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/q20memory.h \
@@ -19,6 +21,9 @@ C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcalendar.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcborcommon.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcborvalue.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qchar.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcompare.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcompare_impl.h \
@@ -32,6 +37,7 @@ C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qcontiguouscache.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qdatetime.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qdebug.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qendian.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qexceptionhandling.h \
@@ -48,9 +54,13 @@ C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qjsonarray.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qjsonobject.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qjsonvalue.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qline.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qmap.h \
@@ -71,6 +81,7 @@ C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qrect.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qregularexpression.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qscopeguard.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qset.h \
@@ -114,7 +125,9 @@ C:/Users/Fadwa.jdia/OneDrive\ -\ BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/quuid.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.8.0/llvm-mingw_64/include/QtCore/qversiontagging.h \

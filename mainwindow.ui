@@ -24,7 +24,20 @@
      </rect>
     </property>
     <property name="text">
-     <string>Parse JSON and Print</string>
+     <string>Print</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>230</y>
+      <width>271</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Parse</string>
     </property>
    </widget>
   </widget>
@@ -34,7 +47,7 @@
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>26</height>
+     <height>22</height>
     </rect>
    </property>
   </widget>

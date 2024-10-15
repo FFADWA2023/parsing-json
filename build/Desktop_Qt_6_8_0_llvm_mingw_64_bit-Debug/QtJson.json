@@ -1,8 +1,158 @@
 {
-  "Data_1" : "Value_1",
-  "Data_2" : "Value_2",
-  "Data_3" : "Value_3",
-  "Data_4" : "Value_4",
-  "Data_5" : "Value_5",
-  "Data_6" : "Value_6",
- }
+  "Serial":
+  {
+      "1": 
+      {
+          "topic": "bdr/KKKKK/bullab_1",
+          "port": "/dev/ttyUSB0",
+          "baud": 57600,
+          "modbus":
+          {
+              "id": 5,
+              "nb_register": 29,
+              "registre":
+              {           
+                  "0": "EC_Current",
+                  "1": "EC_Voltage",
+                  "2": "EC_TS1",
+                  "3": "EC_TS2",
+                  "4": "EC_TC",
+                  "5": "EC_TGB",
+                  "6": "EC_Cp1",
+                  "7": "EC_Cp2",
+                  "8": "EC_Dv1",
+                  "9": "EC_Dv2",
+                  "10": "EC_CpN",
+                  "11": "EC_Pump",
+                  "12": "EC_EV",
+                  "13": "EC_ITP_L",
+                  "14": "EC_ITP_H",
+                  "15": "EC_Alarm",
+                  "16": "EC_Water_State",
+                  "17": "EC_Filbul_State",
+                  "18": "EC_Reserv_State",
+                  "19": "EC_ITP_Water_Cycle",
+                  "20": "EC_ITP_Filbul_Cycle",
+                  "21": "EC_ITP_Reserv_Cycle",
+                  "22": "EC_Firmware_H",
+                  "23": "EC_Firmware_M",
+                  "24": "EC_Firmware_L",
+                  "25": "BOIL_413_actual_relative_power_produced",
+                  "26": "BOIL_414_power_setpoint_in_percent_of_max",
+                  "27": "BOIL_415_actual_flame_current_measured",
+                  "28": "BOIL_416_internal_heat_demand_power"
+              }
+          }
+      },  
+      "2": 
+      {
+          "topic": "bdr/KKKKK/bullab_2",
+          "port": "/dev/ttyUSB1",
+          "baud": 57600,
+          "modbus":
+          {
+              "id": 5,
+              "nb_register": 29,
+              "registre":
+              {           
+                  "0": "EC_Current",
+                  "1": "EC_Voltage",
+                  "2": "EC_TS1",
+                  "3": "EC_TS2",
+                  "4": "EC_TC",
+                  "5": "EC_TGB",
+                  "6": "EC_Cp1",
+                  "7": "EC_Cp2",
+                  "8": "EC_Dv1",
+                  "9": "EC_Dv2",
+                  "10": "EC_CpN",
+                  "11": "EC_Pump",
+                  "12": "EC_EV",
+                  "13": "EC_ITP_L",
+                  "14": "EC_ITP_H",
+                  "15": "EC_Alarm",
+                  "16": "EC_Water_State",
+                  "17": "EC_Filbul_State",
+                  "18": "EC_Reserv_State",
+                  "19": "EC_ITP_Water_Cycle",
+                  "20": "EC_ITP_Filbul_Cycle",
+                  "21": "EC_ITP_Reserv_Cycle",
+                  "22": "EC_Firmware_H",
+                  "23": "EC_Firmware_M",
+                  "24": "EC_Firmware_L",
+                  "25": "BOIL_413_actual_relative_power_produced",
+                  "26": "BOIL_414_power_setpoint_in_percent_of_max",
+                  "27": "BOIL_415_actual_flame_current_measured",
+                  "28": "BOIL_416_internal_heat_demand_power"
+              }
+          }
+      },
+      "3": 
+      {
+          "topic": "bdr/KKKKK/bullab_3",
+          "port": "/dev/ttyUSB4",
+          "baud": 57600,
+          "modbus":
+          {
+              "id": 5,
+              "nb_register": 29,
+              "registre":
+              {           
+                  "0": "EC_Current",
+                  "1": "EC_Voltage",
+                  "2": "EC_TS1",
+                  "3": "EC_TS2",
+                  "4": "EC_TC",
+                  "5": "EC_TGB",
+                  "6": "EC_Cp1",
+                  "7": "EC_Cp2",
+                  "8": "EC_Dv1",
+                  "9": "EC_Dv2",
+                  "10": "EC_CpN",
+                  "11": "EC_Pump",
+                  "12": "EC_EV",
+                  "13": "EC_ITP_L",
+                  "14": "EC_ITP_H",
+                  "15": "EC_Alarm",
+                  "16": "EC_Water_State",
+                  "17": "EC_Filbul_State",
+                  "18": "EC_Reserv_State",
+                  "19": "EC_ITP_Water_Cycle",
+                  "20": "EC_ITP_Filbul_Cycle",
+                  "21": "EC_ITP_Reserv_Cycle",
+                  "22": "EC_Firmware_H",
+                  "23": "EC_Firmware_M",
+                  "24": "EC_Firmware_L",
+                  "25": "BOIL_413_actual_relative_power_produced",
+                  "26": "BOIL_414_power_setpoint_in_percent_of_max",
+                  "27": "BOIL_415_actual_flame_current_measured",
+                  "28": "BOIL_416_internal_heat_demand_power"
+              }
+          }
+      }
+  },
+  
+  "serveur":
+  {
+      "key_static": 0,
+      "key": "none",
+      "ip" : "10.20.30.40",
+      "port" : "3333"
+      
+  },
+  "loop":
+  {
+      "interval":
+      {
+          "limit": 30,
+          "mode" : 0,
+          "size": 1
+      },
+      "buffeur":
+      {
+          "enable": 0,
+          "size": 10,
+          "default": 1
+      }
+  }
+}

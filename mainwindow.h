@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QJsonObject>
+#include <QJsonArray>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -16,7 +18,11 @@ public:
     ~MainWindow();
 
 private slots:
-    void parseJSON();  // Fonction qui lit le fichier JSON et affiche des données
+    void printAllJSON();              // Declaration for printAllJSON
+    void parseJSON();                 // Declaration for parseJSON
+    void parseObject(const QJsonObject &jsonObj, int indentLevel = 0);  // Declaration for parseObject
+    void parseArray(const QJsonArray &jsonArray, int indentLevel = 0);  // Declaration for parseArray
+    void printIndent(int indentLevel);  // Declaration for printIndent
 
 private:
     Ui::MainWindow *ui;
