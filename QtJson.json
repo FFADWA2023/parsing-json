@@ -1,0 +1,7 @@
+{
+  "radioOptions": [
+      { "label": "Option 1", "value": "default_flag" },
+      { "label": "Option 2", "value": "default_flag_2" },
+      { "label": "Option 3", "value": "X_axis_offset" }
+  ]
+}

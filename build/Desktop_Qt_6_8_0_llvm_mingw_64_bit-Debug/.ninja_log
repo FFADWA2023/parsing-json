@@ -1,0 +1,23 @@
+# ninja log v6
+19	2971	7506223513710094	bulane1_autogen/timestamp	d4c6c8225e48b949
+19	2971	7506223513710094	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/timestamp	d4c6c8225e48b949
+19	2971	7506223513710094	bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+6581	6822	7506223551456021	bulane1.exe	c29c27b6624f9be3
+19	2971	7506223513710094	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+2987	6414	7506223515509652	CMakeFiles/bulane1.dir/bulane1_autogen/mocs_compilation.cpp.obj	644003c7c5cf0165
+3034	6558	7506223515970965	CMakeFiles/bulane1.dir/mainwindow.cpp.obj	4942fe3eff851848
+3023	6581	7506223515870610	CMakeFiles/bulane1.dir/main.cpp.obj	bd2c5acaa3209440
+34	1424	7506807981668792	bulane1_autogen/timestamp	d4c6c8225e48b949
+34	1424	7506807981668792	bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+34	1424	7506807981668792	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/timestamp	d4c6c8225e48b949
+34	1424	7506807981668792	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+1425	3374	7506807982666936	CMakeFiles/bulane1.dir/bulane1_autogen/mocs_compilation.cpp.obj	644003c7c5cf0165
+1458	3513	7506807982993064	CMakeFiles/bulane1.dir/main.cpp.obj	bd2c5acaa3209440
+1488	3944	7506807983270107	CMakeFiles/bulane1.dir/mainwindow.cpp.obj	4942fe3eff851848
+3944	4323	7506808007858312	bulane1.exe	c29c27b6624f9be3
+20	364	7506814343576134	bulane1_autogen/timestamp	d4c6c8225e48b949
+20	364	7506814343576134	bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+20	364	7506814343576134	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/timestamp	d4c6c8225e48b949
+20	364	7506814343576134	C:/Users/Fadwa.jdia/OneDrive - BULANE/Documents/bulane1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/bulane1_autogen/mocs_compilation.cpp	d4c6c8225e48b949
+366	2275	7506814347080950	CMakeFiles/bulane1.dir/mainwindow.cpp.obj	4942fe3eff851848
+2275	2570	7506814366173592	bulane1.exe	c29c27b6624f9be3
